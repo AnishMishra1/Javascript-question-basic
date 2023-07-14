@@ -1,0 +1,1 @@
+Spread Operator is a very simple and powerful feature introduced in the ES6 standard of JavaScript, which helps us to write nicer and shorter code. The JavaScript spread operator is denoted by three dots (…). The spread operator helps the iterable objects to expand into individual elements
